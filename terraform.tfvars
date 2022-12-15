@@ -1,3 +1,3 @@
 region = "us-east-1"
-label  = "kubiaki"
+label  = "kubiaki-terraform-circleci"
 app    = "terramino"
